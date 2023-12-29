@@ -39,8 +39,8 @@ Consider citing our paper if used in your own work:
 - **APA**: Cavero, S., Pardo, E. G., Glover, F., & Martí, R. (2024). Strategic oscillation tabu search for improved hierarchical graph drawing. Expert Systems with Applications, 243, 122668.
 - **IEEE**: S. Cavero, E. G. Pardo, F. Glover, and R. Martí, ‘Strategic oscillation tabu search for improved hierarchical graph drawing’, Expert Systems with Applications, vol. 243, p. 122668, 2024.
 
-## Made with MORK (Metaheuristic Optimization framewoRK)
-| ![mork logo](https://user-images.githubusercontent.com/55482385/233611563-4f5c91f2-af36-4437-a4b5-572b6655487a.svg) | Mork is a framework for developing approaches for NP-Hard problems using the JVM. It is currently under heavy development. TLDR: Automatically generate a project using [https://generator.mork-optimization.com/](https://generator.mork-optimization.com/), import in your favourite IDE and start working! See Getting started page in the [Official Documentation for more details](https://docs.mork-optimization.com/en/latest/). |
+## Powered by MORK (Metaheuristic Optimization framewoRK)
+| ![mork logo](https://user-images.githubusercontent.com/55482385/233611563-4f5c91f2-af36-4437-a4b5-572b6655487a.svg) | Mork is a Java framework for solving easily hard optimization problems. You can [create a project](https://generator.mork-optimization.com/) and use it with the [documentation](https://docs.mork-optimization.com/en/latest/) or the [repository](https://github.com/mork-optimization/mork). |
 |--|--|
 
 
